@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZKJK_CLASS_MTR</ARBGB>
+    <MASTERLANG>R</MASTERLANG>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>R</SPRSL>
+     <ARBGB>ZKJK_CLASS_MTR</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>&amp;&amp;&amp;&amp;</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>R</SPRSL>
+     <ARBGB>ZKJK_CLASS_MTR</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Не удалось выбрать ни одного класса</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>R</SPRSL>
+     <ARBGB>ZKJK_CLASS_MTR</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Не удалось отобразить таблицу классов</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>R</SPRSL>
+     <ARBGB>ZKJK_CLASS_MTR</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Не удалось сформирвоать филдкаталог</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>R</SPRSL>
+     <ARBGB>ZKJK_CLASS_MTR</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Нет данных</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>R</SPRSL>
+     <ARBGB>ZKJK_CLASS_MTR</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>Не удалось обратиться к динамической таблице</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>R</SPRSL>
+     <ARBGB>ZKJK_CLASS_MTR</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>Не удалось сформировать динамическую таблицу</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>R</SPRSL>
+     <ARBGB>ZKJK_CLASS_MTR</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>Номер материала не существует</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

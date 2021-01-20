@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZKJK_CL_CHAR_VALUES</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>R</LANGU>
+    <DESCRIPT>Работа со значениями признаков</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_CHAR_VALUES</CLSNAME>
+     <CMPNAME>CACHE_BD_TABLES</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Выборка данных из таблиц объектов</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_CHAR_VALUES</CLSNAME>
+     <CMPNAME>CACHE_TABLES</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Зaкешировать данные таблиц AUSP и CAWNT + ссыл.табл</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_CHAR_VALUES</CLSNAME>
+     <CMPNAME>FLOAT_TO_DATE</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Преобразование float в дату</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_CHAR_VALUES</CLSNAME>
+     <CMPNAME>GET_MARA</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Получение таблицы материалов(для конкретной задачи)</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_CHAR_VALUES</CLSNAME>
+     <CMPNAME>GET_OBJEK</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Получение идентификатора объекта</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_CHAR_VALUES</CLSNAME>
+     <CMPNAME>MT_CHARS</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Таблица признаков класса</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_CHAR_VALUES</CLSNAME>
+     <CMPNAME>READ_TCLA</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Чтение таблицы TCLA</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_CHAR_VALUES</CLSNAME>
+     <CMPNAME>READ_VALUE</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Чтение значения признака</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_CHAR_VALUES</CLSNAME>
+     <CMPNAME>READ_VALUE_CHAR</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Чтение текстового значения</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

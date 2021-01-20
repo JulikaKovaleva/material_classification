@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZKJK_CL_CLASSIFFICATION</CLSNAME>
+    <VERSION>1</VERSION>
+    <LANGU>R</LANGU>
+    <DESCRIPT>Работа с классами и признаками</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_CLASSIFFICATION</CLSNAME>
+     <CMPNAME>GET_CHARACTERS_FOR_CLASS</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Получение признаков для класса</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_CLASSIFFICATION</CLSNAME>
+     <CMPNAME>GET_CLASSES</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Получение классов</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_CLASSIFFICATION</CLSNAME>
+     <CMPNAME>GET_CLASSNUM</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Получение списка номеров классов по объекту</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_CLASSIFFICATION</CLSNAME>
+     <CMPNAME>GET_DETAIL</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Чтение признаков класса</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_CLASSIFFICATION</CLSNAME>
+     <CMPNAME>_GET_ASSIGNED_CLASSES</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Получить связанные по иерархии классы</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZKJK_CL_CLASSIFFICATION</CLSNAME>
+     <CMPNAME>_GET_NEXT_ASSIGNED_CLASS</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Получить следующий класс по иерархии</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
